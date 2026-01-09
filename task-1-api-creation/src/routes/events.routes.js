@@ -16,3 +16,4 @@ router.put("/events/:id", updateEvent);
 router.delete("/events/:id", deleteEvent);
 
 module.exports = router;
+
