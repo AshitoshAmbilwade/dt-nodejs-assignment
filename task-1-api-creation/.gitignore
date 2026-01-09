@@ -1,9 +1,4 @@
-1 internal secret incident detected!
-MongoDB Credentials
-
-2026-01-09 11:06:47 AM (UTC)
-
-See on GitGuardian
-github-icon-icon AshitoshAmbilwade/​dt-node… (commit 05a43c4)
-
-See on GitHub
+node_modules/
+.env
+.env.local
+.env.production
